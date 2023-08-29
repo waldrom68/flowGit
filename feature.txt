@@ -1,0 +1,13 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: EC83-EB93
+
+ Directorio de C:\pruebaGit
+
+29/08/2023  13:40    <DIR>          .
+29/08/2023  13:40    <DIR>          ..
+29/08/2023  13:40                 0 feature.txt
+29/08/2023  13:34               454 new-feature-1.txt
+29/08/2023  13:34               412 new-feature.txt
+29/08/2023  13:12                14 README.md
+               4 archivos            880 bytes
+               2 dirs  492.801.744.896 bytes libres
